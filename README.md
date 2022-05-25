@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @joaovhmota
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-joaovhmota/joaovhmota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 よー、ジョン・モタです。
+- 👀 私の趣味はコードしたり、ゲームをプレイしたり、曲を聴く。
+- 🌱 今、C#と日本語を勉強しています。
+- 📫 私のメールは:joaovhmota2005@gmail.com
