@@ -8,4 +8,4 @@
 - 🌱 Now, I'm studying Oracle (Database), C# and Japanese.
 - 📫 My E-mail is: joaovhmota2005@gmail.com
 
-![Nippon Egao Hyakken](https://tenor.com/view/nippon-egao-hyakkei-nippon-egao-anime-japanese-gif-21582388)
+![Nippon Egao Hyakken](https://tenor.com/bCIJc.gif)
