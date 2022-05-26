@@ -1,3 +1,7 @@
 - 👋 よー、ジョン・モタです。
-- 🌱 今、C#と日本語を勉強しています。
+- 🌱 今、Oracle（データベース）、C#と日本語を勉強しています。
 - 📫 メールは: joaovhmota2005@gmail.com
+
+- 👋 Hey, I'm João Mota
+- 🌱 Now, I'm studying Oracle (Database), C# and Japanese.
+- 📫 My E-mail is: joaovhmota2005@gmail.com
