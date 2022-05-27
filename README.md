@@ -1,11 +1,11 @@
-# 日本語で：
+# 🇯🇵 日本語で：
 - 👋 よー、ジョン・モタです。
 - 📚 今、Oracle（データベース）、C#と日本語を勉強しています。
 - 🎱 私の趣味はプログラミングしたり、ビデオゲームをプレイしたり、写真を撮ったり、キャンプしたりする
 
-# In English：
+# 🇺🇸 In English：
 - 👋 Hey, I'm João Mota
-- 📚 Now, I'm studying Oracle (Database), C# and Japanese.
+- 📚 Now I'm studying Oracle (Database), C# and Japanese.
 - 🎱 Some of my hobbies are: Programming, play video games, toke pictures and camping
 
 # 大切な知識｜Important information：
