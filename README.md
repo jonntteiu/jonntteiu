@@ -7,7 +7,7 @@
 ## In English：
 - 👋 Hey, I'm João Mota.
 - 📚 Now I'm studying Oracle (Database), C# and Japanese.
-- 🎱 Some of my hobbies are: Programming, play video games, toke pictures and camping.
+- 🎱 Some of my hobbies are: Programming, play video games, take pictures and camping.
 
 # 大切な知識｜Important information：
 - 📫 私のメールは｜My E-mail is: joaovhmota2005@gmail.com
