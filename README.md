@@ -1,13 +1,3 @@
-# 自己紹介｜About me
-## 日本語で：
-- 👋 よー、ジョン・モタです。
-- 📚 今、Oracle（データベース）、C#と日本語を勉強しています。
-- 🎱 私の趣味はプログラミングしたり、ビデオゲームをプレイしたり、写真を撮ったり、キャンプしたりします。
+[![João V. H. Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovhmota&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## In English：
-- 👋 Hey, I'm João Mota.
-- 📚 Now I'm studying Oracle (Database), C# and Japanese.
-- 🎱 Some of my hobbies are: Programming, play video games, take pictures and camping.
-
-# 大切な知識｜Important information：
-- 📫 私のメールは｜My E-mail is: joaovhmota2005@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
