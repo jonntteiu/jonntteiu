@@ -1,3 +1,5 @@
-[![ジョン's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovhmota&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
