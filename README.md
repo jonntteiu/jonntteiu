@@ -6,7 +6,7 @@
   "age": 18,
   "lives_in": {
     "country": "Brazil",
-    "State": "Santa Catarina"
+    "state": "Santa Catarina"
   },
   "can_code_in": [
     "C#",
