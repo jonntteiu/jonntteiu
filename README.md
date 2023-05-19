@@ -11,8 +11,11 @@
   "can_code_in": [
     "C#",
     "Typescript",
-    "React",
     "Oracle"
+  ],
+  "learning": [
+    "React",
+    "DevOps"
   ],
   "languages": [
     {
@@ -48,9 +51,7 @@
 ```json
 [
   "日本に住む",
-  "日本語でペラペラ話す",
-  "優秀なプログラマーになる",
-  "たくさんお金を稼ぐ"
+  "日本語でペラペラ話す"
 ]
 ```
 <div align="center">
