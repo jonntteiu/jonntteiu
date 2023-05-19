@@ -5,8 +5,8 @@
   "name": "ジョン",
   "age": 18,
   "lives_in": {
-    "country": "Brazil",
-    "state": "Santa Catarina"
+    "country": "ブラジル",
+    "state": "サンタ・カタリナ"
   },
   "can_code_in": [
     "C#",
@@ -16,16 +16,16 @@
   ],
   "languages": [
     {
-      "name": "Portuguese",
-      "level": "Native"
+      "name": "ポルトガル語",
+      "level": "ペラペラ"
     },
     {
-      "name": "English",
-      "level": "Advanced"
+      "name": "英語",
+      "level": "上級"
     },
     {
-      "name": "Japanese",
-      "level": "Beginner"
+      "name": "日本語",
+      "level": "初心者"
     }
   ]
 }
@@ -35,12 +35,10 @@
 [
   {
     "name": "home",
-    "description": "A simple system to help you manage your money",
     "url": "https://github.com/jonntteiu/home"
   },
   {
     "name": "peperi",
-    "description": "A discord bot",
     "url": "https://github.com/jonntteiu/peperi"
   },
 ]
