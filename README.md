@@ -33,19 +33,6 @@
   ]
 }
 ```
-## <ruby>働<rt>はたら</rt></ruby>いているのプロジェクト
-```json
-[
-  {
-    "name": "home",
-    "url": "https://github.com/jonntteiu/home"
-  },
-  {
-    "name": "peperi",
-    "url": "https://github.com/jonntteiu/peperi"
-  },
-]
-```
 
 ## <ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>
 ```json
