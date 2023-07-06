@@ -8,7 +8,7 @@
     "country": "ブラジル",
     "state": "サンタ・カタリナ"
   },
-  "can_code_in": [
+  "abilities": [
     "C#",
     "Typescript",
     "Oracle"
@@ -20,7 +20,7 @@
   "languages": [
     {
       "name": "ポルトガル語",
-      "level": "ペラペラ"
+      "level": "母国語"
     },
     {
       "name": "英語",
@@ -28,18 +28,10 @@
     },
     {
       "name": "日本語",
-      "level": "初心者"
+      "level": "初級"
     }
   ]
 }
-```
-
-## <ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>
-```json
-[
-  "日本に住む",
-  "日本語でペラペラ話す"
-]
 ```
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
