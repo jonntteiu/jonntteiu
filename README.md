@@ -1,7 +1,7 @@
 ```cs
 namespace AboutMe
 {
-    public class Me
+    public class AboutMe
     {
         public string Name { get; } = "Jonntteiu";
         public byte Age { get; } = 18;
