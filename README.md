@@ -1,26 +1,26 @@
 ```cs
 namespace AboutMe
 {
-    public class AboutMe
+    public static class AboutMe
     {
-        public string Name { get; } = "Jonntteiu";
-        public byte Age { get; } = 18;
-        public List<string> Abilities { get; } = new List<string>()
+        public static readonly string Name = "Jonntteiu";
+        public static readonly byte Age = 18;
+        public static readonly IList<string> Abilities = new List<string>()
         {
             "C#",
             "Typescript",
             "Oracle",
             "Git",
             "HTML5",
-            "CSS3"
+            "CSS3",
+            "React",
         };
-        public List<string> Learning { get; } = new List<string>()
+        public static readonly IList<string> Learning = new List<string>()
         {
             "DevOps",
-            "React",
             "System Analysis"
         };
-        public Dictionary<string, string> Languages { get; } = new Dictionary<string, string>()
+        public static readonly IDictionary<string, string> Languages = new Dictionary<string, string>()
         {
             { "Portuguese", "Native" },
             { "English", "Advanced" },
