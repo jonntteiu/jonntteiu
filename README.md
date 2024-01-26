@@ -3,7 +3,6 @@ namespace AboutMe
 {
     public static class AboutMe
     {
-        public static readonly string Name = "Jonntteiu";
         public static readonly byte Age = 18;
         public static readonly IList<string> Abilities = new List<string>()
         {
